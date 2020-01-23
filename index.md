@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Adrian's Page
 
-You can use the [editor on GitHub](https://github.com/amxr9/amxr9.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is where I will post all my projects.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
