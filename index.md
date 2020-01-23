@@ -2,7 +2,7 @@
 
 This is where I will post all my projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Information and links should be posted below: 
 
 ### Markdown
 
